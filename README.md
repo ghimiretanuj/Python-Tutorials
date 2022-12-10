@@ -1,2 +1,1 @@
-# SPFx
-Sharepoint_SPFx_Test
+# Python Tutorials
